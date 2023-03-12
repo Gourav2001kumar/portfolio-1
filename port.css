@@ -29,7 +29,7 @@ body{
 
 section{
     padding:1rem 5%;
-    min-height: 100vh;
+   /* min-height: 100vh;*/
 }
 .project{
     padding:1rem 5%;
